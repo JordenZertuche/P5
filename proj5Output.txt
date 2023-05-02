@@ -16,8 +16,9 @@ A 2022 BMW S1000RR with 2 wheels
 A 2023 Honda Gold Wing with 3 wheels
 A 2024 Yamaha YZF-R1 with 2 wheels
 A 2025 Kawasaki Ninja with 2 wheels
-The fastest vehicle is: A 2022 BMW S1000RR with 2 wheels
-The fastest vehicle is: A 2023 Nissan Altima with 4 doors
+The fastest motorcycle is: A 2022 BMW S1000RR with 2 wheels
+The fastest car is: A 2023 Nissan Altima with 4 doors
+The fastest truck is: A 2025 Nissan Titan with a payload capacity of 4000 pounds
 A 2021 Harley-Davidson Softail with 2 wheels
 A 2022 BMW S1000RR with 2 wheels
 A 2024 Yamaha YZF-R1 with 2 wheels

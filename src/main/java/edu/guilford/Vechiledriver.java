@@ -33,11 +33,11 @@ public class Vechiledriver {
                 }
                  // use polymorphism
         Vehicle fastest = motorcycle2;
-        System.out.println("The fastest vehicle is: " + fastest.get_description());
+        System.out.println("The fastest motorcycle is: " + fastest.get_description());
         fastest = car3;
-        System.out.println("The fastest vehicle is: " + fastest.get_description());
+        System.out.println("The fastest car is: " + fastest.get_description());
         fastest = truck5;
-        System.out.println("The fastest vehicle is: " + fastest.get_description());
+        System.out.println("The fastest truck is: " + fastest.get_description());
                 //another way to use polymorphism
         Vehicle[] vehicles = {car1, car2, car3, car4, car5, truck1, truck2, truck3, truck4, truck5, motorcycle1, motorcycle2, motorcycle3, motorcycle4, motorcycle5};
     
