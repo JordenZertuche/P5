@@ -1,0 +1,35 @@
+le Car is starting.
+truck is revving up.
+Motorcyle is Revving Up.
+A 2021 Toyota Camry with 4 doors
+A 2022 Honda Accord with 4 doors
+A 2023 Nissan Altima with 4 doors
+A 2024 Ford Mustang with 2 doors
+A 2025 Chevrolet Corvette with 2 doors
+A 2021 Ford F-150 with a payload capacity of 2000 pounds
+A 2022 Chevrolet Silverado with a payload capacity of 2500 pounds
+A 2023 Dodge Ram with a payload capacity of 3000 pounds
+A 2024 Toyota Tacoma with a payload capacity of 3500 pounds
+A 2025 Nissan Titan with a payload capacity of 4000 pounds
+A 2021 Harley-Davidson Softail with 2 wheels
+A 2022 BMW S1000RR with 2 wheels
+A 2023 Honda Gold Wing with 3 wheels
+A 2024 Yamaha YZF-R1 with 2 wheels
+A 2025 Kawasaki Ninja with 2 wheels
+The fastest vehicle is: A 2022 BMW S1000RR with 2 wheels
+The fastest vehicle is: A 2023 Nissan Altima with 4 doors
+A 2021 Harley-Davidson Softail with 2 wheels
+A 2022 BMW S1000RR with 2 wheels
+A 2024 Yamaha YZF-R1 with 2 wheels
+A 2025 Kawasaki Ninja with 2 wheels
+A 2023 Honda Gold Wing with 3 wheels
+A 2021 Toyota Camry with 4 doors
+A 2022 Honda Accord with 4 doors
+A 2023 Nissan Altima with 4 doors
+A 2024 Ford Mustang with 2 doors
+A 2025 Chevrolet Corvette with 2 doors
+A 2021 Ford F-150 with a payload capacity of 2000 pounds
+A 2022 Chevrolet Silverado with a payload capacity of 2500 pounds
+A 2023 Dodge Ram with a payload capacity of 3000 pounds
+A 2024 Toyota Tacoma with a payload capacity of 3500 pounds
+A 2025 Nissan Titan with a payload capacity of 4000 pounds
